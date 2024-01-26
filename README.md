@@ -1,4 +1,4 @@
-# STARTER-jpa03
+# jpa03-bravo-luis
 
 Running at: <https://jpa03-bravo-luis.dokku-05.cs.ucsb.edu/>
 
